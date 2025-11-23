@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of PrepAI - Career Accelerator -111",
+  "description": "An end-to-end AI interview preparation platform. Upload your resume for personalized analysis, learning paths, mock quizzes, and real-time AI voice interviews.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
